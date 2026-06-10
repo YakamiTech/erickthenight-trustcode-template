@@ -36,5 +36,5 @@ Nossa infraestrutura está provisionada em rede pública e ambientes de visualiz
 * **Declaração de Uso de IA:** Ferramentas de IA foram utilizadas de forma assistiva para revisão textual e formatação de documentação. A lógica de negócios, arquitetura Solidity e design do ecossistema são de autoria intelectual da equipe.
 
 ## 👥 Equipe
-* **Erick Mattos** - CEO & Tech Lead (Arquitetura Sistêmica, Smart Contracts e Metaverso Tático).
-* **Helen Araújo** - CLO / Chief Legal Officer (Governança, Compliance Web3 e Metaverso Jurídico).
+* **Erick Mattos** - CEO & Tech Lead (Arquitetura Sistêmica e Metaverso).
+* **Helen Araújo** - CLO / Chief Legal Officer (Governança, Compliance Web3 e Smart Contracts).
